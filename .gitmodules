@@ -1,0 +1,6 @@
+[submodule "Coderr-Api"]
+	path = Coderr-Api
+	url = https://github.com/TobiasMatthies/Coderr-Api
+[submodule "project.Coderr"]
+	path = project.Coderr
+	url = https://github.com/Developer-Akademie-Backendkurs/project.Coderr
